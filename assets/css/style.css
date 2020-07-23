@@ -66,8 +66,8 @@ a {
     
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
-    padding: 100px 100px 0px 100px;
+    height: 90vh;
+    padding: 80px 100px 0px 100px;
     text-align: center;
     color:#03231b;
     
@@ -91,17 +91,17 @@ a {
 
 .hero-title{
     font-weight: bolder;
-        font-size: 35px;
+        font-size: 40px;
         font-style: normal;
-        font:36px helveticaneue, Arial, Tahoma, Sans-serif;}
+        font:36px helveticaneue, Arial, Tahoma, Sans-serif;
+  
+}
 
-.hero-text{
-   
-    font-size: 16px;
-    max-width: 500px;
+.hero-sub-title{
     font-weight: bolder;
-    color: #0ec28c;
- 
+        font-size: 30px;
+        font-style: normal;
+        font:36px helveticaneue, Arial, Tahoma, Sans-serif;
 }
 
 .conhecer-mais{
@@ -111,7 +111,7 @@ a {
     color:#eae7d9;
     height: 50px;
     width: 200px;
-    margin-top: 80px;
+    margin-top: 60px;
     font-weight: normal;
     font-size: 16px;
 }
@@ -166,7 +166,7 @@ a {
 }
 
 .footer{
-    background-color: #272121;
+    background-color: #303030;
     height: auto;
     padding: 15px 100px;
    
