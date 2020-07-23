@@ -155,6 +155,9 @@ a {
 }
 
 .contato{
+    background-image: url(../img/scott.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     background-color: #443737;
     height: auto;
     padding: 100px;
